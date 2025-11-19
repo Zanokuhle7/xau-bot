@@ -1,0 +1,1 @@
+print("XAU Bot online")
